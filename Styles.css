@@ -42,7 +42,6 @@ nav .nav1 a{
     text-decoration: none;
 }
 
-<<<<<<< HEAD
 .enlaces {
     padding: 10px 0;
     color: #fff;
@@ -53,8 +52,7 @@ nav .nav1 a{
 .enlaces:hover{
     text-decoration: underline;
 }
-=======
->>>>>>> d239fc5ad5b19aabf64610a41c50d11b2bd78c02
+
 .icono1 {
     display: block;
     z-index: 100000000;
@@ -197,13 +195,8 @@ hr {
 .showcase {
     margin-top: 70px;
     width: 100%;
-<<<<<<< HEAD
     height: 630px;
     background: url('./img/pexels-scott-webb-430208.jpg') no-repeat center center/cover;
-=======
-    height: 650px;
-    background: url('./img/globotwo.jpg') no-repeat center center/cover;
->>>>>>> d239fc5ad5b19aabf64610a41c50d11b2bd78c02
     padding: 50px;
     margin-bottom: 20px;
     display: flex;
